@@ -1,0 +1,5 @@
+Quick Questions
+1. new Set([1,1,2,2,3,4]) returns {1,2,3,4}
+2. [...new Set("referee")].join("") returns 'ref'
+3. 0: {[1,2,3]=>true}
+   1: {[1,2,3]=>false}
